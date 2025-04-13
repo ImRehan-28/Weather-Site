@@ -12,7 +12,6 @@ curr_tab.classList.add("curr-tab");
 API_Key = "532a8d87485873090ea4d66772660516";
 getfromsessiontorage();
 
-//switching tab
 
 function switchtab(clickedtab) {
     if (clickedtab != curr_tab) {
